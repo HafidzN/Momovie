@@ -1,6 +1,6 @@
 # MOMOVIE
 
-Momovie is a web app which let you gather some sort of information about the movie you are wondering about by harnessing IMDB API as source of all data. It was built using React Js library for creating its UI and Firebase as OAuth service
+Momovie is a web app which let you gather some sort of information about the movie you are wondering about by harnessing TMDB API [TMDB](https://www.themoviedb.org/) as source of all data. It was built using React Js library for creating its UI and Firebase as OAuth service
 
 
 
@@ -8,6 +8,7 @@ Momovie is a web app which let you gather some sort of information about the mov
 * Sign in
 * Search
 * Filter
+* Reset Filter
 * Sort
 * Like
 * Remove Like
